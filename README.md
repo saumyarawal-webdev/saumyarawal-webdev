@@ -47,7 +47,7 @@ A persistent SQL execution environment that bridges the gap between human though
 
 
 ### 📊 GitHub Stats
-![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumyarawal-webdev&show_icons=true&theme=radical&hide_border=true)
+![Saumya's  Stats](https://github-readme-stats.vercel.app/api?username=saumyarawal-webdev&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
 
 ---
 *Architecting the web, building resilient systems.*
