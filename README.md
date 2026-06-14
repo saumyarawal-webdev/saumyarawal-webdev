@@ -18,33 +18,5 @@ I am Fullstack developer. I specialize in building **unified development archite
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ---
 
-### 🚀 My Signature Engines
-I build robust boilerplates to jumpstart production-ready applications.
 
-| **Repository** | **Description** |
-| :--- | :--- |
-| **[🚂 React-Express Engine](https://github.com/saumyarawal-webdev/react-express)** | **The Core Monolith.**<br>A unified architecture integrating **Vite Middleware** directly into Express.<br>• *One Terminal. One Port. Zero Config.*<br>• *Production-ready SPA Fallback.* |
-| **[🍃 React-Express + MongoDB](https://github.com/saumyarawal-webdev/react-express-nosql)** | **The Full Stack Beast.**<br>Extends the core engine with **Mongoose** and **Auth patterns**.<br>• *Pre-configured Database Connections.*<br>• *Ready for complex data-driven apps.* |
-
----
-
-# 🐘 Featured Application
-
-## Project Name: SQL Playground
-
-> Where Natural Language meets Raw SQL.
-
-![Postgres Badge](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Gemini Badge](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-* [Click here to open Playground](https://postgres-playground-by-saumya-rawal.vercel.app/)
-## Description
-A persistent SQL execution environment that bridges the gap between human thought and database logic.
-
-- Engineered with Neon (Serverless Postgres) to provide stateful, resumable user sessions.
-- Integrated Gemini API to translate natural language prompts directly into executable SQL schemas.
-- Features a Dynamic GUI for real-time table visualization and history tracking.
-
----
 *Architecting the web, building resilient systems.*
