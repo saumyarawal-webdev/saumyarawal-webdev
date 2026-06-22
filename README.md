@@ -18,6 +18,7 @@ I am a full-stack developer focused on **unified development architectures** and
 - Deploys as a standard Express monolith across serverless functions, containers, or traditional servers.
 - Starts fast with `npm create rex-app@latest`.
 
+**Official Documentation of rexjs** : https://rex-docs.vercel.app
 Rex reflects the architecture I like to build: practical full-stack systems where the backend and frontend are not treated as disconnected projects, but as one coordinated application.
 
 ---
