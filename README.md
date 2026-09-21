@@ -5,7 +5,7 @@ I am a full-stack developer focused on **unified development architectures** and
 
 ##### **Personal Website** : https://saumya-rawal.vercel.app
 
-##### **Portfolio ** : https://github.com/saumyarawal-webdev/saumya-portfolio
+##### **Portfolio** : https://github.com/saumyarawal-webdev/saumya-portfolio
 ---
 
 ### Framework I Built: Rex
